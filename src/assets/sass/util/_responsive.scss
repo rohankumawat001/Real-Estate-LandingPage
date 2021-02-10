@@ -1,0 +1,18 @@
+@include for-size(phone) {
+	html,
+	body {
+		font-size: 7px;
+	}
+}
+@include for-size(hd-plus) {
+	html,
+	body {
+		font-size: 10px;
+	}
+}
+@include for-size(full-hd) {
+	html,
+	body {
+		font-size: 16px;
+	}
+}
