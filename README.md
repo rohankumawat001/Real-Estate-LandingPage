@@ -1,4 +1,7 @@
-### Figma Design Link (https://www.figma.com/file/jw6wgeNtJBWWcesykMVTTp/Real-estate?node-id=1%3A2)
+
+![Img]('./src/assets/image/screencapture-localhost-3000-2021-02-10-19_22_43.png'?raw=true "Title")
+
+# Figma Design Link (https://www.figma.com/file/jw6wgeNtJBWWcesykMVTTp/Real-estate?node-id=1%3A2)
 
 # Getting Started with Create React App
 
