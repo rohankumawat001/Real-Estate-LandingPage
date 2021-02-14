@@ -1,3 +1,8 @@
+
+<img src ="./src/assets/image/screencapture-localhost-3000-2021-02-10-19_22_43.png"/>
+
+# Figma Design Link (https://www.figma.com/file/jw6wgeNtJBWWcesykMVTTp/Real-estate?node-id=1%3A2)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
