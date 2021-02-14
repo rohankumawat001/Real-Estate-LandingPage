@@ -19,7 +19,7 @@
 	}
 	.hero-container {
 		text-align: center;
-		z-index: 1;
+		z-index: -1;
 		width: 100%;
 		@include for-size(phone) {
 			position: absolute;
